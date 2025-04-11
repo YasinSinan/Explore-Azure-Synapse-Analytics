@@ -8,3 +8,4 @@ Azure Synapse Analytics provides a single, consolidated data analytics platform 
 👉 In Azure Synapse Analytics, I could run Python (and other) code in a Spark pool; which uses a distributed data processing engine based on Apache Spark.
 👉 In Azure Synapse Analytics, these data warehouses can be implemented in a dedicated SQL pool.
 
+https://www.linkedin.com/posts/yasin-sinan-b16744324_azure-synapse-analytics-provides-a-single-activity-7313683318003154946-5yjW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH6uUIBLLy8-7pJTxe1zSxlpFy5h13iMzU
